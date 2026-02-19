@@ -9,3 +9,12 @@ This project aims to support early wildfire detection to reduce environmental da
 * Model training and evaluation pipeline  
 * Prediction on new images  
 * Potential for real-time deployment  
+
+
+# Architecture Diagrams
+Pipeline
+![Pipeline](images/diagram.png)
+![Model Layers](images/network.png)
+Model Layers
+![Transfer Learning](images/transfer.png)
+Transfer Learning
